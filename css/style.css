@@ -310,7 +310,7 @@ iframe {
   margin: 0.6rem 0.6rem;
   white-space: normal;
   transition: all 0.2s ease-in-out;
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-content: center;
   word-break: break-word;
